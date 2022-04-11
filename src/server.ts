@@ -1,6 +1,6 @@
 import express from 'express'
 import mongoose from 'mongoose'
-import {router} from './routes/cretateRouter'
+import {router} from './routes'
 // import { MongoClient } from 'mongodb'
 
 

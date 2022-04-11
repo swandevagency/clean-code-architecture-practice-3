@@ -1,4 +1,3 @@
-// import entity
 import makeId from "../../modules/makeId"
 import validateUser from "../../entities/user"
 import userFunctions from "../../dbLogic"
